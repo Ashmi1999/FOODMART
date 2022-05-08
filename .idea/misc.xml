@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/shyni/AndroidStudioProjects/BeyondXFoodMart 2/BeyondXFoodMart/app/src/main/res/layout/activity_add_driver.xml" value="0.22" />
+        <entry key="..\:/Users/shyni/AndroidStudioProjects/BeyondXFoodMart 2/BeyondXFoodMart/app/src/main/res/layout/activity_add_product.xml" value="0.19074074074074074" />
+        <entry key="..\:/Users/shyni/AndroidStudioProjects/BeyondXFoodMart 2/BeyondXFoodMart/app/src/main/res/layout/activity_admin_home.xml" value="0.1" />
+        <entry key="..\:/Users/shyni/AndroidStudioProjects/BeyondXFoodMart 2/BeyondXFoodMart/app/src/main/res/layout/activity_admin_login.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/shyni/AndroidStudioProjects/BeyondXFoodMart 2/BeyondXFoodMart/app/src/main/res/layout/activity_cart_item_list.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/shyni/AndroidStudioProjects/BeyondXFoodMart 2/BeyondXFoodMart/app/src/main/res/layout/activity_choose_actor.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/shyni/AndroidStudioProjects/BeyondXFoodMart 2/BeyondXFoodMart/app/src/main/res/layout/activity_customer_home.xml" value="0.13425925925925927" />
+        <entry key="..\:/Users/shyni/AndroidStudioProjects/BeyondXFoodMart 2/BeyondXFoodMart/app/src/main/res/layout/activity_delivery_added_item_list.xml" value="0.13425925925925927" />
+        <entry key="..\:/Users/shyni/AndroidStudioProjects/BeyondXFoodMart 2/BeyondXFoodMart/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/shyni/AndroidStudioProjects/BeyondXFoodMart 2/BeyondXFoodMart/app/src/main/res/layout/activity_manage_employeee.xml" value="0.1" />
+        <entry key="..\:/Users/shyni/AndroidStudioProjects/BeyondXFoodMart 2/BeyondXFoodMart/app/src/main/res/layout/activity_manage_product.xml" value="0.13425925925925927" />
+        <entry key="..\:/Users/shyni/AndroidStudioProjects/BeyondXFoodMart 2/BeyondXFoodMart/app/src/main/res/layout/custom_cart_deails.xml" value="0.13425925925925927" />
+        <entry key="..\:/Users/shyni/AndroidStudioProjects/BeyondXFoodMart 2/BeyondXFoodMart/app/src/main/res/layout/custom_cart_item_user.xml" value="0.13425925925925927" />
+        <entry key="..\:/Users/shyni/AndroidStudioProjects/BeyondXFoodMart 2/BeyondXFoodMart/app/src/main/res/layout/custom_cart_items.xml" value="0.13425925925925927" />
+        <entry key="..\:/Users/shyni/AndroidStudioProjects/BeyondXFoodMart 2/BeyondXFoodMart/app/src/main/res/layout/custom_deliver_item_user.xml" value="0.13425925925925927" />
+        <entry key="..\:/Users/shyni/AndroidStudioProjects/BeyondXFoodMart 2/BeyondXFoodMart/app/src/main/res/layout/custom_delivery_items.xml" value="0.13425925925925927" />
+        <entry key="..\:/Users/shyni/AndroidStudioProjects/BeyondXFoodMart 2/BeyondXFoodMart/app/src/main/res/layout/custom_driver_details.xml" value="0.13425925925925927" />
+        <entry key="..\:/Users/shyni/AndroidStudioProjects/BeyondXFoodMart 2/BeyondXFoodMart/app/src/main/res/layout/custom_payment.xml" value="0.13425925925925927" />
+        <entry key="..\:/Users/shyni/AndroidStudioProjects/BeyondXFoodMart 2/BeyondXFoodMart/app/src/main/res/layout/custom_product_deliver_deails.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/shyni/AndroidStudioProjects/BeyondXFoodMart 2/BeyondXFoodMart/app/src/main/res/layout/custom_product_details.xml" value="0.13425925925925927" />
+        <entry key="..\:/Users/shyni/AndroidStudioProjects/BeyondXFoodMart 2/BeyondXFoodMart/app/src/main/res/layout/custom_update_cart_item.xml" value="0.13425925925925927" />
+        <entry key="..\:/Users/shyni/AndroidStudioProjects/BeyondXFoodMart 2/BeyondXFoodMart/app/src/main/res/layout/custom_update_delivery.xml" value="0.13425925925925927" />
+        <entry key="..\:/Users/shyni/AndroidStudioProjects/BeyondXFoodMart 2/BeyondXFoodMart/app/src/main/res/layout/custom_update_driver_details.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/shyni/AndroidStudioProjects/BeyondXFoodMart 2/BeyondXFoodMart/app/src/main/res/layout/custom_update_product_details.xml" value="0.13425925925925927" />
+        <entry key="..\:/Users/shyni/AndroidStudioProjects/BeyondXFoodMart/BeyondXFoodMart/app/src/main/res/layout/activity_add_driver.xml" value="0.25" />
+        <entry key="..\:/Users/shyni/AndroidStudioProjects/BeyondXFoodMart/BeyondXFoodMart/app/src/main/res/layout/activity_add_product.xml" value="0.20512820512820512" />
+        <entry key="..\:/Users/shyni/AndroidStudioProjects/BeyondXFoodMart/BeyondXFoodMart/app/src/main/res/layout/activity_admin_home.xml" value="0.20512820512820512" />
+        <entry key="..\:/Users/shyni/AndroidStudioProjects/BeyondXFoodMart/BeyondXFoodMart/app/src/main/res/layout/activity_admin_login.xml" value="0.20512820512820512" />
+        <entry key="..\:/Users/shyni/AndroidStudioProjects/BeyondXFoodMart/BeyondXFoodMart/app/src/main/res/layout/activity_cart_item_list.xml" value="0.20512820512820512" />
+        <entry key="..\:/Users/shyni/AndroidStudioProjects/BeyondXFoodMart/BeyondXFoodMart/app/src/main/res/layout/activity_choose_actor.xml" value="0.20512820512820512" />
+        <entry key="..\:/Users/shyni/AndroidStudioProjects/BeyondXFoodMart/BeyondXFoodMart/app/src/main/res/layout/activity_customer_home.xml" value="0.20512820512820512" />
+        <entry key="..\:/Users/shyni/AndroidStudioProjects/BeyondXFoodMart/BeyondXFoodMart/app/src/main/res/layout/activity_delivery_added_item_list.xml" value="0.20512820512820512" />
+        <entry key="..\:/Users/shyni/AndroidStudioProjects/BeyondXFoodMart/BeyondXFoodMart/app/src/main/res/layout/activity_delivery_list.xml" value="0.20512820512820512" />
+        <entry key="..\:/Users/shyni/AndroidStudioProjects/BeyondXFoodMart/BeyondXFoodMart/app/src/main/res/layout/activity_main.xml" value="0.22698320787492762" />
+        <entry key="..\:/Users/shyni/AndroidStudioProjects/BeyondXFoodMart/BeyondXFoodMart/app/src/main/res/layout/custom_payment.xml" value="0.20512820512820512" />
+        <entry key="..\:/Users/shyni/AndroidStudioProjects/BeyondXFoodMart/BeyondXFoodMart/app/src/main/res/layout/custom_product_deliver_deails.xml" value="0.20512820512820512" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
