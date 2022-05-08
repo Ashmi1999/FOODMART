@@ -8,7 +8,7 @@
     android:gravity="center"
     android:orientation="vertical"
     tools:context=".AdminLogin">
-
+//
     <EditText
         android:id="@+id/Aemail"
         android:drawablePadding="10dp"
